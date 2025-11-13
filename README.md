@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Siam  
 
-<!--
-**tahsinrs/tahsinrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science and Engineering (CSE)** student passionate about **Data Science** and problem-solving.  
+🐍 Currently learning **Python**, **NumPy**, **Pandas**, and **SQL**.  
+🧠 Exploring **Algorithms and Data Structures** step by step.  
+🔧 Building small beginner-friendly projects to improve my coding skills.  
+🌱 Always learning, growing, and open to collaboration.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Languages:** Python, C++, SQL  
+- **Learning:** Data Science, Pandas, NumPy, Matplotlib  
+- **Interests:** AI, Machine Learning, and Data Visualization  
+
+---
+
+### 📎 Connect with Me  
+🔗 **LinkedIn:** [Your LinkedIn Profile Link]  
+
+---
+
+⭐ *“Code. Learn. Repeat.”*  
