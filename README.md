@@ -16,7 +16,7 @@
 ---
 
 ### 📎 Connect with Me  
-🔗 **LinkedIn:** [Your LinkedIn Profile Link]  
+🔗 **LinkedIn:** [www.linkedin.com/in/tahsin-rabbi-siam]  
 
 ---
 
