@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siam  
+# 👋 Hi, I'm Tahsin Rabbi Siam  
 
 🎓 **Computer Science and Engineering (CSE)** student passionate about **Data Science** and problem-solving.  
 🐍 Currently learning **Python**, **NumPy**, **Pandas**, and **SQL**.  
